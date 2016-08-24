@@ -4,6 +4,7 @@
 #Jesse Smith
 #Chris Griggs
 #Austin Tilton
+[![Build Status](http://jenkins.chico.liatr.io/job/chicken/badge/icon)](http://jenkins.chico.liatr.io/job/chicken/)
 ##Hello_Jenkins
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
